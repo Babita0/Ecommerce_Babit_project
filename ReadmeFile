@@ -1,1 +1,5 @@
-
+Django project for e-commerce is created.
+All the properties that was asked to add in the project has been added.
+properties like id, exam_Date, exam_name, exam_description,total_marks, pass_marks, exam_status has been added.
+This project has used sqlite database.
+CRUD operation can be handled through "Django Admin" interface.
